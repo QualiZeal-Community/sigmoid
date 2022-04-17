@@ -6,7 +6,7 @@
 
     <groupId>com.qualizeal.community</groupId>
     <artifactId>sigmoid</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.0</version>
 
     <name>sigmoid</name>
     <description>A simple java library to perform sigma function on list items</description>
